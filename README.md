@@ -1,10 +1,15 @@
+
+## 📅 Project Date
+
+**June 11, 2021**
+
 # 📝 To-Do List App
 
 A simple, clean, and responsive to-do list web app built on **June 11, 2021**, as one of my very first web development projects.
 
 ## 🚀 Live Demo
 
-🔗 [Check it out here](https://your-todo-app-link.netlify.app)
+🔗 [Check it out here](https://todo-prac.netlify.app/)
 
 ## 📌 Features
 
@@ -24,8 +29,8 @@ A simple, clean, and responsive to-do list web app built on **June 11, 2021**, a
 
 ## 📷 Screenshots
 
-<!-- You can add images like this if you have any -->
-<!-- ![Screenshot](./screenshot.png) -->
+![image](https://github.com/user-attachments/assets/0d4c2215-f660-4ce9-a8e1-e20060bc201b)
+
 
 ## 📚 What I Learned
 
@@ -44,10 +49,6 @@ A simple, clean, and responsive to-do list web app built on **June 11, 2021**, a
 - Use a JS framework (like React)
 - Add drag-and-drop task ordering
 - Add filters (All, Completed, Pending)
-
-## 📅 Project Date
-
-**June 11, 2021**
 
 ---
 
